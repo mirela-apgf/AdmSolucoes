@@ -25,3 +25,8 @@ INSERT INTO itens_agendamento (id_agendamento, id_servico, preco_no_agendamento)
 INSERT INTO avaliacoes (id_cliente, nota, comentario) VALUES
 (1, 4.5, 'Ótimo serviço!'),
 (2, 5.0, 'Excelente atendimento!');
+
+INSERT INTO servico_icones (nome_servico, caminho_imagem, palavras_chave) VALUES
+('Limpeza', 'icones/limpeza.png', 'limpeza, casa, higienizacao'),
+('Elétrica', 'icones/eletrica.png', 'eletrica, energia, manutencao'),
+('Hidráulica', 'icones/hidraulica.png', 'agua, cano, reparo');
