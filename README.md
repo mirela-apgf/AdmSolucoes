@@ -41,12 +41,20 @@ The interface was designed to be intuitive, with simple navigation and quick acc
 <br>
 
 ## 📸 System Interface
+<br>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left"><b>Service Management</b></td>
+    <td align="left"><b>AService Schedule</b></td>
+    <td align="left"><b>Sales Report</b></td>
+  </tr>
+  <tr>
+    <td><img src="readme/imagens/GerenciamentoServicos.jpg" width="350"></td>
+    <td><img src="readme/imagens/AgendaServicos.jpg" width="350"></td>
+    <td><img src="readme/imagens/Relatorio.png" width="350"></td>
+  </tr>
+</table>
 
-### Service Management
-<img src="readme/imagens/GerenciamentoServicos.jpg" width="700">
-
-### Service Schedule
-<img src="readme/imagens/AgendaServicos.jpg" width="700">
 
 <br>
 
@@ -56,3 +64,4 @@ The interface was designed to be intuitive, with simple navigation and quick acc
 2. Set up the database  
 3. Configure `db_connect.php`  
 4. Run on a local server (XAMPP/WAMP)
+ 
